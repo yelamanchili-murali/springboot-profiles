@@ -115,7 +115,7 @@
                         <!--JVM OPTIONS -->
                         <property>
                             <name>JAVA_OPTS</name>
-                            <value>-Dspring.profiles.active=production</value>
+                            <value>-Dspring.profiles.active=staging</value>
                         </property>
                     </appSettings>
                     <deployment>
