@@ -1,0 +1,1 @@
+Spring Boot profiles test application for use with App Service trials.
