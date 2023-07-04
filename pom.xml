@@ -115,7 +115,7 @@
                         <!--JVM OPTIONS -->
                         <property>
                             <name>JAVA_OPTS</name>
-                            <value>-Dspring.profiles.active=dev</value>
+                            <value>-Dspring.profiles.active=production</value>
                         </property>
                     </appSettings>
                     <deployment>
